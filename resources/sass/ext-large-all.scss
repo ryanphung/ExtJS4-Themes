@@ -27,7 +27,7 @@ $panel-header-icon-height: ceil($font-size * 1.3) !default;
 // =========== WINDOW ============
 // ===============================
 
-$window-border-radius: 7px 7px !default;
+//$window-border-radius: 7px 7px !default;
 $window-border-width: 1px !default;
 $window-inner-border-width: 1px !default;
 
@@ -39,21 +39,21 @@ $window-header-font-weight: normal !default;
 // ===============================
 // =========== BUTTON ============
 // ===============================
-$button-small-border-radius: 3px !default;
+//$button-small-border-radius: 3px !default;
 $button-small-border-width: 1px !default;
 $button-small-padding: ceil($font-size / 2) !default;
 $button-small-text-padding: 4px;
 $button-small-font-size: ceil($font-size * 1) !default;
 $button-small-icon-size: 16px !default;
 
-$button-medium-border-radius: 3px !default;
+//$button-medium-border-radius: 3px !default;
 $button-medium-border-width: 1px !default;
 $button-medium-padding: ceil($font-size / 2) !default;
 $button-medium-text-padding: 3px;
 $button-medium-font-size: ceil($font-size * 1) !default;
 $button-medium-icon-size: 24px !default;
 
-$button-large-border-radius: 3px !default;
+//$button-large-border-radius: 3px !default;
 $button-large-border-width: 1px !default;
 $button-large-padding: ceil($font-size / 2) !default;
 $button-large-text-padding: 3px;
